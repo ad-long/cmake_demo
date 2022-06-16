@@ -1,4 +1,4 @@
-cmake project demo, contans:
+cmake project demo, contains:
 - shared lib
 - static lib
 - source code lib
