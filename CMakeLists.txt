@@ -1,4 +1,4 @@
-project(binance_cpp CXX)
+project(cmake_demo CXX)
 
 cmake_minimum_required(VERSION 3.8)
 
