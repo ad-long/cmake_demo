@@ -1,6 +1,7 @@
 #pragma once
 #include <string>
 using std::string;
+#include <chrono>
 
 namespace cmake_demo::src_lib
 {
